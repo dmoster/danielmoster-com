@@ -1,0 +1,46 @@
+.navbar-brand img {
+    border-radius: 5px;
+    height: 40px;
+    width: 40px;
+}
+
+.websites-container {
+    background-image: linear-gradient(120deg, #8fd3f4 0%, #84fab0 100%);
+}
+
+.cpp-container {
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+
+.opacity-65 {
+    filter: opacity(65%);
+    -webkit-filter: opacity(65%);
+}
+
+.rounded-bottom-3 {
+    border-radius: 0px 0px 3px 3px;
+}
+
+.fa-linkedin {
+    color: #007bb6;
+}
+
+.fa-twitter {
+    color: #00aced;
+}
+
+.fa-youtube {
+    color: #bb0000;
+}
+
+.fa-linkedin:hover {
+    color: #00629D;
+}
+
+.fa-twitter:hover {
+    color: #0093D4;
+}
+
+.fa-youtube:hover {
+    color: #A20000;
+}
